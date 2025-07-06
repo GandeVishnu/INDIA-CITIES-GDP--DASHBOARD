@@ -10,7 +10,7 @@ IndiaCityGDP is a data-driven analytics project designed to explore and visualiz
 
 | Step | Description |
 |------|-------------|
-| 🧠 **Step 1** | Check the `DataSet/` folder for **raw GDP-related CSV or Excel files** | 
+| 🧠 **Step 1** | Check the `DataSet/` folder consist of **3 Files** | 
 | 📂 **Step 2** | Review the `DATA_ANALYSIS.ipynb` notebook for **EDA & preprocessing** of Indian city GDP data |
 | 📊 **Step 3** | Open the `Final_15cities.pbix` file to explore the **interactive Power BI dashboard** |
 | 💻 **Step 4** | Explore the `screenshots/` folder to view:
