@@ -7,7 +7,17 @@ IndiaCityGDP is a data-driven analytics project designed to explore and visualiz
 
 ## 📁 File & Folder Structure
 
-<pre> IndiaCityGDP/ │ ├── DataSet/ # Contains GDP-related CSV or Excel files ├── screenshots/ # Screenshots of the app and dashboard ├── DATA_ANALYSIS.ipynb # Jupyter Notebook for preprocessing & EDA ├── Final_15cities.pbix # Power BI dashboard file ├── main_app.py # Streamlit web app with login & dashboard └── README.md # Project documentation (this file) </pre>
+
+| Step | Description |
+|------|-------------|
+| 🧠 **Step 1** | Review the `DATA_ANALYSIS.ipynb` notebook for **EDA & preprocessing** of Indian city GDP data |
+| 📂 **Step 2** | Check the `DataSet/` folder for **raw GDP-related CSV or Excel files** |
+| 📊 **Step 3** | Open the `Final_15cities.pbix` file to explore the **interactive Power BI dashboard** |
+| 💻 **Step 4** | Run the `main_app.py` file to launch the **Streamlit web app with login/signup & dashboard** |
+| 🖼️ **Step 5** | Explore the `screenshots/` folder to view:
+  - `Login and Signup Interface`
+  - `Home Page Introduction`
+  - `Embedded Power BI Dashboard`
 
 ---
 
