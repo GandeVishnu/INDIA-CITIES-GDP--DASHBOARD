@@ -4,7 +4,7 @@ IndiaCityGDP is a data-driven analytics project designed to explore and visualiz
 
 ---
 
-**Live Demo**: [Explore the website](https://gdp-of-india-cities--gandevishnuvardhan.streamlit.app/)  
+**Live Demo**: [Link](https://gdp-of-india-cities--gandevishnuvardhan.streamlit.app/)  
 An interactive and analytical platform showcasing the economic performance (GDP) of major Indian cities through Power BI visualizations, data analysis, and a responsive web app built with Streamlit.
 
 ## 📁 File & Folder Structure
