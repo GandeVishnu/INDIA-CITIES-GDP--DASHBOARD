@@ -37,7 +37,6 @@ IndiaCityGDP is a data-driven analytics project designed to explore and visualiz
 - **Matplotlib / Seaborn** – Visualizations
 - **Jupyter Notebook** – Exploratory data analysis
 - **Streamlit** – Web-based dashboard
-- **SQLite** – Lightweight local database for user login
 - **Power BI** – Advanced data visualization
 
 ---
