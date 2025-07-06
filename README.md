@@ -4,18 +4,6 @@ IndiaCityGDP is a data-driven analytics project designed to explore and visualiz
 
 ---
 
-## 🧭 Table of Contents
-
-- [Project Structure](#file-folder-structure)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Power BI Dashboard](#power-bi-dashboard)
-- [Screenshots](#screenshots)
-- [Author](#author)
-- [License](#license)
-
----
 
 ## 📁 File & Folder Structure
 
