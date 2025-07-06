@@ -18,8 +18,8 @@ An interactive and analytical platform showcasing the economic performance (GDP)
 | 📊 **Step 3** | Open the `Final_15cities.pbix` file to explore the **interactive Power BI dashboard** |
 | 💻 **Step 4** | Explore the `screenshots/` folder to view |
 | 🖼️ **Step 5** | GDP_INDIA_CITIES.py (Website Code)|
-  - `Login and Signup Interface`
   - `Home Page Introduction`
+  - `Login and Signup Interface`
   - `Embedded Power BI Dashboard`
 
 ---
