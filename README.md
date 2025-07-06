@@ -1,4 +1,4 @@
-# 🇮🇳 IndiaCityGDP: A Visualization of Urban Economic Metrics
+# IndiaCityGDP: A Visualization of Urban Economic Metrics
 
 IndiaCityGDP is a data-driven analytics project designed to explore and visualize the Gross Domestic Product (GDP) metrics of major Indian cities. Combining **Python**, **Power BI**, and **Streamlit**, this project enables interactive exploration of city-wise economic performance, making data analysis accessible to everyone — from students and analysts to policymakers.
 
