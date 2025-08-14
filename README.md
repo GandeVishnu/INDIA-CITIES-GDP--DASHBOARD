@@ -46,6 +46,9 @@ An interactive and analytical platform showcasing the economic performance (GDP)
 ## 📷 Dashboard Preview
 
 
-![Dashboard Screenshot](ecomm-sales-dashboard.png)
+![Dashboard Screenshot](screenshots/Dashboard_Page_1.png)
+![Dashboard Screenshot](screenshots/Dashboard_Page_2.png)
+![Dashboard Screenshot](screenshots/Dashboard_Page_3.png)
+
 
 ---
