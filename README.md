@@ -43,3 +43,9 @@ An interactive and analytical platform showcasing the economic performance (GDP)
 - **Power BI** – Advanced data visualization
 
 ---
+## 📷 Dashboard Preview
+
+
+![Dashboard Screenshot](ecomm-sales-dashboard.png)
+
+---
